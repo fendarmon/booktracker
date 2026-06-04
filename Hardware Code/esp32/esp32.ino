@@ -8,9 +8,9 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-// --- Wi-Fi Credentials ---
-const char* ssid = "YOUR_WIFI_SSID";
-const char* password = "YOUR_WIFI_PASSWORD";
+
+const char* ssid = "Schedule Tracker";
+const char* password = "123456789";
 
 #define buzzer_pin 25
 #define led_pin 26
